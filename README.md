@@ -1,1 +1,2 @@
 # Brains_python_study
+新人研修でのPython勉強用のコード
